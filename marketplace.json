@@ -1,0 +1,7 @@
+{
+    "name": "software-testing",
+    "owner": { "name": "<你的名字>" },
+    "skills": [
+        { "name": "software-testing", "path": ".", "description": "End-to-end software testing workflow" }
+    ]
+}
